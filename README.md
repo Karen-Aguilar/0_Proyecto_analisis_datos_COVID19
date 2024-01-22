@@ -1,5 +1,5 @@
 Para este análisis se uso Google Sheets, sin embargo, para adjuntar los datos en el Github, se uso un excel.
-También, podras encontrar una presentación que fue hecha en Google documents.
+También, podras encontrar una presentación que fue hecha en Google Slides.
 | Google Sheets | Google Slides |
 
 ![image](https://github.com/Karen-Aguilar/0_Proyecto_analisis_datos_COVID19/assets/151496907/d7b659b7-d42e-44d3-9871-b064cbc0498b)
