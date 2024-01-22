@@ -1,3 +1,5 @@
+2023. Análisis de datos del COVID-19. Abordé el desafío de analizar y calcular el exceso de mortalidad causada por COVID-19 para cada 100,000 habitantes en Chile, Colombia, México y Perú.
+
 Para este análisis se uso Google Sheets, sin embargo, para adjuntar los datos en el Github, se uso un excel.
 También, podras encontrar una presentación que fue hecha en Google Slides.
 | Google Sheets | Google Slides |
